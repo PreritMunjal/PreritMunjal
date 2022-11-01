@@ -1,3 +1,4 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGMj__w03_6Dw/profile-displaybackgroundimage-shrink_350_1400/0/1661359859209?e=1672876800&v=beta&t=jsfzNBJXzP0QXyk5WjZJlGX8iCyIczDlvpD7oW7sqe8)](https://www.linkedin.com/in/prerit-munjal/overlay/background-image/)
 <h1 align="center">Hi 👋, I'm Prerit Munjal</h1>
 <h3 align="center">A Cloud & DevOps Engineer, Cloud Mentor, Public Speaker & Content Creator</h3>
 
